@@ -1,0 +1,15 @@
+{
+    "Name": {
+        "X": "Player 1",
+        "O": "Player 2"
+    },
+    "Score": {
+        "X": 0,
+        "O": 0
+    },
+    "turn": true,
+    "counter": 0,
+    "xundo_counter": 0,
+    "oundo_counter": 0,
+    "fullscreen": false
+}

@@ -1,0 +1,35 @@
+{
+    "Theme": {
+        "themeColor": "",
+        "label": {
+            "Background": "white",
+            "Foreground": "black"
+        },
+        "labelframe": {
+            "Background": "white",
+            "Foreground": "black"
+        },
+        "backframe": {
+            "Background": "white"
+        },
+        "button": {
+            "Background": "white",
+            "Foreground": "black",
+            "WinForeground": "white"
+        },
+        "gamearea": {
+            "Background": "#dcdcdc",
+            "Foreground": "white"
+        },
+        "xColor": "red",
+        "oColor": "blue"
+    },
+    "Score": {
+        "ScoretoPlay": 20,
+        "withSystem": false
+    },
+    "Font": {
+        "Family": "consolas",
+        "Size": 30
+    }
+}
